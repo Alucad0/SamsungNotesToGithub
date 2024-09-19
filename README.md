@@ -2,6 +2,8 @@
 
 ## The Idea
 
+The Idea and purpose of the program is to transfer selected notes (complete notes and not just .txt) and folders from a Samsung tablet to a specified Github Repository. 
+
 <!-- 
 import os
 import glob
